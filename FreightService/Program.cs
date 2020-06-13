@@ -251,8 +251,7 @@ namespace FreightService
                     }
                 }
             }
-            //if(loadSchedule)
-            //    save to flight to file;
+
             if (addSchedule)
             {
                 if (schedule == null)
